@@ -1,0 +1,34 @@
+{
+"creationTime":"2022-09-25T22:35:32+02:00",
+"inputDatasets":[
+  "/pnfs/file1",
+  "/pnfs/file1"
+],
+"scientificMetadata":{
+   "coordinates":{
+       "value":1,
+       "unit":"terrestrial"
+   } ,
+   "redshift":{
+       "value":1,
+       "unit":"none"
+   } 
+},
+"owner":"Patrick Fuhrmann",
+"ownerEmail":"patrick.fuhrmann@desy.de",
+"contactEmail":"patrick.fuhrmann@desy.de",
+"sourceFolder":"/nfs",
+"size":0,
+"packedSize":0,
+"type":"derived",
+"keywords":[],
+"description":"Sloan Digital Sky Survey",
+"datasetName":"Anothe file",
+"isPublished":true,
+"ownerGroup":"it-ric",
+"accessGroups":[],
+"datasetlifecycle":{"archivable":true,"retrievable":false,"publishable":false},
+"techniques":[],
+"investigator":"patrick.fuhrmann@desy.de",
+"usedSoftware":["curl","SciCat","dCache"]
+}

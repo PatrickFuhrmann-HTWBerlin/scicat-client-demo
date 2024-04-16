@@ -1,0 +1,35 @@
+{
+"creationTime":"2022-09-25T22:35:32+02:00",
+"owner":"Patrick Fuhrmann",
+"ownerEmail":"patrick.fuhrmann@desy.de",
+"contactEmail":"patrick.fuhrmann@desy.de",
+"sourceFolder":"/nfs",
+"size":0,
+"packedSize":0,
+"type":"derived",
+"keywords":[],
+"description":"Sloan Digital Sky Survey",
+"datasetName":"Anothe file",
+"isPublished":true,
+"ownerGroup":"it-ric",
+"accessGroups":[],
+"datasetlifecycle":{"archivable":true,"retrievable":false,"publishable":false},
+"techniques":[],
+"inputDatasets":[
+  "/pnfs/file1",
+  "/pnfs/file1"
+],
+"investigator":"patrick.fuhrmann@desy.de",
+"scientificMetadata":{
+   "Lens-Info":"24-240mm f/3.5-6.3",
+   "coordinates":{
+       "value":1,
+       "unit":"terrestrial"
+   } ,
+   "redshift":{
+       "value":1,
+       "unit":"none"
+   } 
+},
+"usedSoftware":["curl","SciCat","dCache"]
+}
